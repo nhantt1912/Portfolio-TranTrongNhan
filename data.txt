@@ -1,0 +1,80 @@
+Tran Trong Nhan - Portfolio
+Projects
+Playable Ads - Branding
+Built full gameplay flow (login → end game).
+Optimized build size
+Integrated tracking systems.
+Integrated localization systems.
+Integrate UI/UX into gameplay systems.
+Implement partner-requested changes.
+https://youtu.be/cAjuaf93pWQ
+Lakeside Bar
+Maintained and enhanced live Steam projects by implementing new features
+and content updates.
+Managed game builds and deployed updates (DLCs, feature updates) through
+Steamworks.
+Link Game: https://store.steampowered.com/app/3417120/Lakeside_Bar/
+https://youtu.be/h-4I0q88sJs?si=Eve1r5_JK3Y2ggH_
+Tran Trong Nhan - Portfolio 1
+Neon Paw
+Implemented core gameplay mechanics.
+Collaborated with the Game Designer to improve gameplay mechanics.
+Implemented VFX using Unity’s Particle System.
+https://youtu.be/5dPfMUzLR7Q
+My Cozy Kitchen: Relaxing Time
+Main Responsibility: Developed gameplay systems and level logic for the project.
+Managed Git workflow, handled merges/conflicts,
+and verified code quality before builds.
+Teamwork: Collaborated with artists and designers, provided constructive design
+feedback.
+Optimization: Asset Bundles, Build Report, Object Pooling.
+Link Game: https://play.google.com/store/apps/details?
+id=com.fc.p.wj.cozy.kitchen.relaxing.cooking.asmr&hl=vi
+My Cozy Kitchen: Relaxing Time Level 10 Matcha | Game Walkthrough
+My Cozy Kitchen: Relaxing Time Level 10 Solution Walkthrough | How to Beat
+Level 10 in My Cozy Kitchen: Relaxing Time? Matcha: A green tea drink made
+from fine matcha powder. Earthy, slightly bitter, and full of antioxidants.
+https://youtu.be/BzIb8PCyJGo?si=VPjnkkF6NymkwMsU
+Spranky Transformer
+Main Responsibility: Developed gameplay systems and level logic for the project.
+Managed Git workflow, handled merges/conflicts,
+and verified code quality before builds.
+UI/UX: Level select, in-game UI, responsive, navigation, and screen transitions.
+Teamwork: Collaborated with artists and designers, provided constructive design
+feedback.
+Optimization: build size by Build Report.
+Link Game: https://play.google.com/store/apps/details?
+id=com.transformer.monster.animation&hl=vi
+Tran Trong Nhan - Portfolio 2
+https://youtu.be/D3u9j_8oW_0
+HandMade Story: DIY ASMR
+Main Responsibility: Developed gameplay systems and level logic for the project.
+UI/UX: Level select, in-game UI, responsive, and screen transitions.
+Teamwork: Collaborated with artists and designers, provided constructive design
+feedback.
+Optimization: build size by Build Report, Object Pooling.
+Link Game: https://play.google.com/store/search?
+q=handmade+story+diy+asmr&c=apps&hl=vi
+https://youtu.be/mzxKMpVi8ck?si=46KY3LWsu1nTve7Y
+Handmade Story 2: Cùng Nấu Ăn!
+Main Responsibility: Developed gameplay systems and level logic for the project.
+UI/UX: Implemented UI transition effects to enhance user experience and developed
+gameplay logic for category-based game modes.
+Link Game: https://play.google.com/store/apps/details?
+id=com.fc.p.wy.asmr.satis.minigames.organizing&hl=vi
+https://youtu.be/Zw9E4Kppmfg?si=teREZJfY2xYOq49x
+Satis
+Main Responsibility: Developed gameplay systems and level logic for the project.
+Tran Trong Nhan - Portfolio 3
+UI/UX: Level select, in-game UI, responsive, and screen transitions.
+Teamwork: Collaborated with artists and designers, provided constructive design
+feedback.
+https://youtu.be/p72BtNcEWj0?si=yqp4vi__aEhAcujW
+Anti-Stress Simulator
+Main Responsibility: Developed gameplay systems for the project.
+UI/UX: Level select, in-game UI, responsive, and screen transitions.
+Teamwork: Collaborated with artists and designers, provided constructive design
+feedback.
+Optimization: build size by Build Report.
+https://www.youtube.com/shorts/Avdm9lCC2dI?feature=share
+Tran Trong Nhan - Portfolio 4
